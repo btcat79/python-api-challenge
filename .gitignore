@@ -1,0 +1,11 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore API keys
+api_keys.py
